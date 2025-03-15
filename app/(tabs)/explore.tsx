@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
   },
   textCount: {
     color: 'black',
-    fontSize: 28,
+    fontSize: 40,
     fontWeight: 'bold'
   },
   separate: {
